@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Teaching Staff
+---
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### Social Media Analysis 2019 - 2020
+Kamil Tagowski  
+Tomasz Kajdanowicz
 
+#### Social Media Analysis 2018 - 2019
+Rajmund Klemiński    
+Kamil Tagowski  
+Tomasz Kajdanowicz  
+Przemysław Kazienko  
 
-[jekyll-organization]: https://github.com/jekyll
+Course contact
+---
+
+[Tomasz Kajdanowicz](mailto:tomasz.kajdanowicz@pwr.edu.pl)  

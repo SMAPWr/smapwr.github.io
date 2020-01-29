@@ -13,18 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Social Media Analysis @ WrUST
-email: sma.wust@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-collection:
+email: tomasz.kajdanowicz@pwr.edu.pl
+description: > # this means to ignore newlines until "show_excerpts:"
+  This site contains the materials that was developed during Social Media
+  Analysis course at Wroclaw University of Science and Technology, Poland.
+  The course belong to Data Science
+  speciality at Faculty of Computer Science and Management, 
+  Department of Computational Intelligence.
+
+title: Social Media Analysis - course web page
+github_username:  SMAPWr
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jemoji
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
