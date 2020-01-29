@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is Hello World Message!
+Welcome at the Social Media Analysis course web page!  
