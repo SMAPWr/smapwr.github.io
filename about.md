@@ -21,4 +21,4 @@ Przemysław Kazienko
 Course contact
 ---
 
-[Tomasz Kajdanowicz](tomasz.kajdanowicz@pwr.edu.pl)  
+[Tomasz Kajdanowicz](mailto:tomasz.kajdanowicz@pwr.edu.pl)  
