@@ -8,6 +8,10 @@ permalink: /about/
 Teaching Staff
 ---
 
+#### Social Media Analysis 2020 - 2021
+Krzysztof Rajda
+Tomasz Kajdanowicz
+
 #### Social Media Analysis 2019 - 2020
 Kamil Tagowski  
 Tomasz Kajdanowicz
