@@ -8,6 +8,10 @@ permalink: /about/
 Teaching Staff
 ---
 
+#### Social Media Analysis 2021 - 2022
+Krzysztof Rajda
+Tomasz Kajdanowicz
+
 #### Social Media Analysis 2020 - 2021
 Krzysztof Rajda
 Tomasz Kajdanowicz
