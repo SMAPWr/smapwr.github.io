@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome at the Social Media Analysis course web page!  
+Welcome at the Social & Digital Media Analysis course web page!  
